@@ -59,24 +59,25 @@ a { /* make all the links text white and strips off text decoration*/
     background-position: center;
 }
 
-.float-left {
+.float-left { /* Float text to the left of an image*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right { /* Float text to the right of an image */
     float: right;
     margin-left: 25px;
 }
 
 .content {
     width: 75%;
-    display: inline-block;
+    /* forces the containing tags onto the same line to apear next to eachother */ 
+    display: inline-block; 
     margin-left: 20px;
 }
 
 .img-height-200
-{
+{/* a generic style, that forces an images max height to 200 px*/
     max-height: 200px;
 }
 
@@ -84,6 +85,7 @@ a { /* make all the links text white and strips off text decoration*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    /* clear will, push the element below both left and right floated elements*/
     clear: both;
     float: right;
     width: 20%;
@@ -105,7 +107,8 @@ a { /* make all the links text white and strips off text decoration*/
 }
 
 .benefits img {
-    display: block;
+    /* force the tag to display as a block element, and take up an entire line and entire width*/
+    display: block; 
     margin: 10px auto;
     max-width: 150px;
 }
@@ -128,6 +131,7 @@ a { /* make all the links text white and strips off text decoration*/
 
 .footer {
     padding: 30px;
+    /* clear will, push the element below both left and right floated elements*/
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
