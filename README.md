@@ -35,6 +35,6 @@ Project is created with:
 Just open the index.html file in a web browser. This is just a simple html static website.
 
 ## Mockup
-<img src="./assets/images/horiseon mockup.png" alt="mockup image of what the Horiseon marketing website looks like">
+<img src="https://github.com/mogannam/urban-octo-telegram/blob/main/Develop/assets/images/horiseon%20mockup.png" alt="mockup image of what the Horiseon marketing website looks like">
 
 
