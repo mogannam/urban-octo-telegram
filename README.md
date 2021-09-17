@@ -29,7 +29,7 @@ Other information -->
 Project is created with:
 * CSS
 * HTML version: 5
-* 
+
 	
 ## Setup
 Just open the index.html file in a web browser. This is just a simple html static website.
