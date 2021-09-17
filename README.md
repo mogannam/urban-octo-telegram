@@ -22,8 +22,10 @@ Other information -->
 * [Mockup](#Mockup)
 
 ## General info
-<a href="https://github.com/mogannam/urban-octo-telegram"> Horiseon project hosted on Github</a>
+
 <p>A sample project for a simple HTML website with CSS. The website was developed for a fake company, Horiseon. Horiseon is a SEO marketing company, and the website describes the services they provide and the benifits of hiring them. </p>
+
+<a href="https://github.com/mogannam/urban-octo-telegram"> Horiseon project hosted on Github</a>
 	
 ## Technologies
 Project is created with:
